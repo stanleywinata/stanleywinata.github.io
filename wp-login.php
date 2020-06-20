@@ -9,11 +9,11 @@
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 	<title>Log In &lsaquo; Stanley Winata Portfolio &#8212; WordPress</title>
 	<link rel='dns-prefetch' href='//s.w.org' />
-<link rel='stylesheet' id='dashicons-css'  href='/https://stanleywinata.github.io/wp-includes/css/dashicons.min.css?ver=5.4.2' media='all' />
-<link rel='stylesheet' id='buttons-css'  href='/https://stanleywinata.github.io/wp-includes/css/buttons.min.css?ver=5.4.2' media='all' />
-<link rel='stylesheet' id='forms-css'  href='/https://stanleywinata.github.io/wp-admin/css/forms.min.css?ver=5.4.2' media='all' />
-<link rel='stylesheet' id='l10n-css'  href='/https://stanleywinata.github.io/wp-admin/css/l10n.min.css?ver=5.4.2' media='all' />
-<link rel='stylesheet' id='login-css'  href='/https://stanleywinata.github.io/wp-admin/css/login.min.css?ver=5.4.2' media='all' />
+<link rel='stylesheet' id='dashicons-css'  href='https://stanleywinata.github.io/wp-includes/css/dashicons.min.css?ver=5.4.2' media='all' />
+<link rel='stylesheet' id='buttons-css'  href='https://stanleywinata.github.io/wp-includes/css/buttons.min.css?ver=5.4.2' media='all' />
+<link rel='stylesheet' id='forms-css'  href='https://stanleywinata.github.io/wp-admin/css/forms.min.css?ver=5.4.2' media='all' />
+<link rel='stylesheet' id='l10n-css'  href='https://stanleywinata.github.io/wp-admin/css/l10n.min.css?ver=5.4.2' media='all' />
+<link rel='stylesheet' id='login-css'  href='https://stanleywinata.github.io/wp-admin/css/login.min.css?ver=5.4.2' media='all' />
 	<meta name='robots' content='noindex,noarchive' />
 	<meta name='referrer' content='strict-origin-when-cross-origin' />
 		<meta name="viewport" content="width=device-width" />
@@ -25,7 +25,7 @@
 		<div id="login">
 		<h1><a href="https://wordpress.org/">Powered by WordPress</a></h1>
 	
-		<form name="loginform" id="loginform" action="/https://stanleywinata.github.io/wp-login.php" method="post">
+		<form name="loginform" id="loginform" action="https://stanleywinata.github.io/wp-login.php" method="post">
 			<p>
 				<label for="user_login">Username or Email Address</label>
 				<input type="text" name="log" id="user_login" class="input" value="" size="20" autocapitalize="off" />
@@ -43,40 +43,40 @@
 						<p class="forgetmenot"><input name="rememberme" type="checkbox" id="rememberme" value="forever"  /> <label for="rememberme">Remember Me</label></p>
 			<p class="submit">
 				<input type="submit" name="wp-submit" id="wp-submit" class="button button-primary button-large" value="Log In" />
-									<input type="hidden" name="redirect_to" value="/wp-admin/" />
+									<input type="hidden" name="redirect_to" value="https://stanleywinata.github.io/wp-admin/" />
 									<input type="hidden" name="testcookie" value="1" />
 			</p>
 		</form>
 
 					<p id="nav">
-									<a href="/https://stanleywinata.github.io/wp-login.php?action=lostpassword">Lost your password?</a>
+									<a href="https://stanleywinata.github.io/wp-login.php?action=lostpassword">Lost your password?</a>
 								</p>
 					<script type="text/javascript">
 			function wp_attempt_focus() {setTimeout( function() {try {d = document.getElementById( "user_login" );d.focus(); d.select();} catch( er ) {}}, 200);}
 wp_attempt_focus();
 if ( typeof wpOnload === 'function' ) { wpOnload() }		</script>
-				<p id="backtoblog"><a href="/https://stanleywinata.github.io/">
+				<p id="backtoblog"><a href="https://stanleywinata.github.io/">
 		&larr; Back to Stanley Winata Portfolio		</a></p>
 			</div>
-	<script src='/https://stanleywinata.github.io/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp'></script>
-<script src='/https://stanleywinata.github.io/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+	<script src='https://stanleywinata.github.io/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp'></script>
+<script src='https://stanleywinata.github.io/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
 <script>
-var _zxcvbnSettings = {"src":"\/wp-includes\/js\/zxcvbn.min.js"};
+var _zxcvbnSettings = {"src":"https:\/\/stanleywinata.github.io\/wp-includes\/js\/zxcvbn.min.js"};
 </script>
-<script src='/https://stanleywinata.github.io/wp-includes/js/zxcvbn-async.min.js?ver=1.0'></script>
+<script src='https://stanleywinata.github.io/wp-includes/js/zxcvbn-async.min.js?ver=1.0'></script>
 <script>
 var pwsL10n = {"unknown":"Password strength unknown","short":"Very weak","bad":"Weak","good":"Medium","strong":"Strong","mismatch":"Mismatch"};
 </script>
-<script src='/https://stanleywinata.github.io/wp-admin/js/password-strength-meter.min.js?ver=5.4.2'></script>
-<script src='/https://stanleywinata.github.io/wp-includes/js/underscore.min.js?ver=1.8.3'></script>
+<script src='https://stanleywinata.github.io/wp-admin/js/password-strength-meter.min.js?ver=5.4.2'></script>
+<script src='https://stanleywinata.github.io/wp-includes/js/underscore.min.js?ver=1.8.3'></script>
 <script>
 var _wpUtilSettings = {"ajax":{"url":"\/wordpress\/wp-admin\/admin-ajax.php"}};
 </script>
-<script src='/https://stanleywinata.github.io/wp-includes/js/wp-util.min.js?ver=5.4.2'></script>
+<script src='https://stanleywinata.github.io/wp-includes/js/wp-util.min.js?ver=5.4.2'></script>
 <script>
 var userProfileL10n = {"warn":"Your new password has not been saved.","warnWeak":"Confirm use of weak password","show":"Show","hide":"Hide","cancel":"Cancel","ariaShow":"Show password","ariaHide":"Hide password"};
 </script>
-<script src='/https://stanleywinata.github.io/wp-admin/js/user-profile.min.js?ver=5.4.2'></script>
+<script src='https://stanleywinata.github.io/wp-admin/js/user-profile.min.js?ver=5.4.2'></script>
 	<script>
 	/(trident|msie)/i.test(navigator.userAgent)&&document.getElementById&&window.addEventListener&&window.addEventListener("hashchange",function(){var t,e=location.hash.substring(1);/^[A-z0-9_-]+$/.test(e)&&(t=document.getElementById(e))&&(/^(?:a|select|input|button|textarea)$/i.test(t.tagName)||(t.tabIndex=-1),t.focus())},!1);
 	</script>
